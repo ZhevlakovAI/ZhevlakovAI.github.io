@@ -27,6 +27,7 @@
     width: 400px; 
     height: auto; 
     margin: 10px;
+    border-radius: 5px;
 }
 
 @media (max-width: 600px) {
@@ -35,7 +36,12 @@
         align-items: center;
     }
 
+    .gallery-img{
+        width: 350px;
+    }
+
 }
+
 
 
 
