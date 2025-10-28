@@ -30,7 +30,7 @@
     border-radius: 5px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1080px) {
     .gallery {
         flex-direction: column; 
         align-items: center;
@@ -42,6 +42,7 @@
     }
 
 }
+
 
 
 
