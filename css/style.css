@@ -33,15 +33,15 @@
     .gallery {
         flex-direction: column; 
         align-items: center;
-        margin-left: 5px;
     }
 
     .gallery-img{
         width: 350px;
-        border-radius: 0px;
+        border-radius: 2px;
     }
 
 }
+
 
 
 
