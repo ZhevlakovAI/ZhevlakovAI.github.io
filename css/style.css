@@ -35,12 +35,13 @@
         align-items: center;
     }
 
-    .gallery-img{
+    .gallery_img{
         width: 350px;
-        border-radius: 0px;
+        border-radius: 2px;
     }
 
 }
+
 
 
 
