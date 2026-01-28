@@ -1,0 +1,231 @@
+
+.cta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    width: 1120px;
+    height: 1106px;
+
+    margin: 350px auto 0px auto;
+}
+
+.cta__head {
+    color: #606482;
+    margin-bottom: 64px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    
+    width: 1120px;
+}
+
+.cta_card1 {
+    width: 352px;
+    height: 478px;
+}
+
+.cta__card1_text {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    width: 320px;
+    height: 252px;
+    
+    background-color: white;
+    box-shadow: 0px 20px 50px rgba(96, 100, 130, 0.1);
+    border-radius: 32px;
+
+    margin-left: 32px;
+    margin-top: -68px;
+
+    color: #3D3D4E;
+    text-align: center;
+}
+
+
+/* ================================================================ */
+/* ================================================================ */
+/* ================================================================ */
+/* ================================================================ */
+/* ================================================================ */
+
+.cta_photo{ 
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 1440px;
+    height: 609px;
+
+    margin: 96px auto 0px auto;
+}
+
+
+.cta_photo__milk-box {
+    width: 1440px;
+    height: 568px;
+
+    background-color: rgba(226, 225, 233, 0.25);
+
+    margin-top: 42px;
+
+}
+
+.cta_photo__photo-box {
+    width: 544px;
+    height: 566px;
+
+    border-radius: 32px 128px 32px 32px;
+
+    margin-left: 160px;
+    margin-top: -610px;
+}
+
+.cta_photo__form-box {
+    width: 544px;
+
+    margin-left: 32px;
+    margin-top: -481px
+}
+
+.cta_photo__form-zone {
+    border: none;
+    background-color: white;
+
+    width: 528px;
+    height: 54px;
+    padding-left: 16px;
+    color: rgba(96, 100, 130, 0.75);
+}
+
+.cta_photo__form-zone2 {
+    border: none;
+    background-color: white;
+
+    width: 528px;
+    height: 54px;
+    padding-left: 16px;
+    color: white;
+    cursor: pointer;
+}
+
+.cta_photo__form-zone2::file-selector-button {
+    display: none;
+}
+
+.cta_photo__form-zone-upload {
+    margin-top: -35px;
+    height: 36px;
+}
+
+.cta_photo__form-zone-upload-text {
+    margin-left: 38px;
+    margin-top: -22px;
+
+    pointer-events: none;
+    color: rgba(96, 100, 130, 0.75);
+}
+
+.upload {
+    width: 14px;
+    height: 14px;
+    margin-left: 16px;
+    margin-right: 8px;
+}
+
+/* ================================================================ */
+/* ================================================================ */
+/* ================================================================ */
+/* ================================================================ */
+/* ================================================================ */
+
+.cta_choose {
+    display: flex;
+    flex-wrap: wrap;
+
+    background-color: rgba(226, 225, 233, 0.25);
+
+    width: 1440px;
+    height: 602px;
+
+    margin: 125px auto 0px auto;
+}
+
+.cta_choose-text-box {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+
+    width: 518px;
+    height: 474px;
+
+    margin-top: 72px;
+    margin-left: 160px
+}
+
+.cta_choose-form-zone {
+
+    border: none;
+    background-color: white;
+
+    width: 528px;
+    height: 54px;
+    padding-left: 16px;
+    color: rgb(96, 100, 130);
+
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.cta_choose-arrow {
+    width: 24px;
+    height: 24px;
+
+    margin-top: 15px;
+    margin-left: -35px;
+    pointer-events: none;
+}
+
+.hero__photo3 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: space-between;
+
+    width: 544px;
+    height: 700px;
+
+    margin-left: 64px;
+    margin-top: -29px;
+}
+
+/* ================================================================ */
+/* ================================================================ */
+/* ================================================================ */
+/* ================================================================ */
+/* ================================================================ */
+
+.cta2 {
+    width: 1120px;
+    height: 328px;
+
+    margin: 96px auto 0px auto;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    background: linear-gradient(79.59deg, #DF3231 0%, rgba(223, 50, 49, 0.75) 100%);
+    color: white;
+    border-radius: 128px 32px 32px 32px;
+
+}
+

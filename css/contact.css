@@ -1,0 +1,32 @@
+
+.contact {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+    width: 1440px;
+    height: 628px;
+    margin: 96px auto 0px auto;
+
+    background-color: rgba(226, 225, 233, 0.25);
+}
+
+
+.contact__text-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    width: 390px;
+    height: 472px;
+    margin-left: 172px;
+}
+
+.contact__text-box-soc {
+    width: 150px;
+    height: 32px;
+}
+
+.contact__map {
+    margin-left: 219px;
+}

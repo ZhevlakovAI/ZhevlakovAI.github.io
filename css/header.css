@@ -1,0 +1,60 @@
+@font-face {
+    font-family: bold_m;
+    src: url("../fonts/Montserrat-Bold.ttf");
+}
+
+
+.font_logo {
+    font-family: bold_m;
+    font-size: 20px;
+}
+
+header {
+    width: 1120px;
+    height: 72px;
+
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.header__logo_red {
+    color: #DF3231;
+}
+
+.nav-ad {
+    display: none;
+}
+
+.nav {
+    margin-left: 32px;
+    margin-right: 377px;
+}
+
+.header__nav {
+    color: #606482;
+    text-decoration: none;
+    
+    margin-right: 42px;
+}
+
+.header__nav:hover {
+    color: #541607;
+}
+
+
+.circle {
+    width: 866px;
+    height: 866px;
+    border-radius: 50%;
+    background: linear-gradient(45deg, rgba(226, 225, 233, 0), rgba(226, 225, 233, 0.5));
+
+    margin-top: -1150px;
+    margin-left: 816px;
+}

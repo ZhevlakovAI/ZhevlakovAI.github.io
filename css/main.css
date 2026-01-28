@@ -1,0 +1,202 @@
+* {
+    margin: 0;
+    width: auto;
+}
+
+
+@font-face {
+    font-family: bold_m;
+    src: url("../fonts/Montserrat-Bold.ttf");
+}
+
+@font-face {
+    font-family: exB;
+    src: url("../fonts/Montserrat-ExtraBold.ttf");
+}
+
+@font-face {
+    font-family: medium;
+    src: url("../fonts/Montserrat-Medium.ttf");
+}
+
+@font-face {
+    font-family: light;
+    src: url("../fonts/Montserrat-Light.ttf");
+}
+
+
+.font-menu {
+    font-size: 14px;
+    line-height: 27px;
+    font-family: bold_m;
+    text-decoration: none;
+}
+
+.font_label {
+    font-size: 14px;
+    line-height: 20px;
+    font-family: bold_m;
+}
+
+.font_h1 {
+    font-size: 48px;
+    line-height: 64px;
+    font-family: exB;
+}
+
+.font_h2 {
+    font-size: 40px;
+    line-height: 54px;
+    font-family: exB;
+}
+
+.font_h3 {
+    font-size: 28px;
+    line-height: 40px;
+    font-family: exB;
+}
+
+.font_h4 {
+    font-size: 18px;
+    line-height: 28px;
+    font-family: medium;
+}
+
+.font_b1 {
+    font-size: 16px;
+    line-height: 26px;
+    font-family: light;
+}
+
+.font_b2 {
+    font-size: 14px;
+    line-height: 22px;
+    font-family: light;
+}
+
+
+
+
+.button {
+    width: 130px;
+    height: 44px;
+
+    border: none;
+    border-radius: 8px;
+
+    background-color: #DF3231;
+    color: white;
+}
+
+.button:hover {
+    background-color: #3D3D4E;
+    cursor: pointer;
+    color: white;
+}
+
+.button:disabled {
+    background-color: rgba(226, 225, 233, 0.5);
+    color: #3D3D4E;
+}
+
+
+/* width / Ширь */
+.width255 {
+    width: 255px;
+}
+
+.width288 {
+    width: 288px;
+    text-align: center;
+}
+
+.width192 {
+    width: 192px;
+}
+
+.width770 {
+    width: 770px;
+}
+
+/* margin-top / отступ-верх */
+
+.margin96top {
+    margin-top: 96px;
+}
+
+.margin64top {
+    margin-top: 64px;
+}
+
+.margin32top {
+    margin-top: 32px;
+}
+
+.margin24top {
+    margin-top: 24px
+}
+
+.margin18top {
+    margin-top: 18px
+}
+
+.margin16top {
+    margin-top: 16px
+}
+
+/* margin-left / отступ-влево */
+
+.margin32left {
+    margin-left: 32px;
+}
+
+.margin160left {
+    margin-left: 160px;
+}
+
+.margin16left {
+    margin-left: 16px;
+}
+
+/* margin-bottom / отступ-вниз */
+
+.margin32bottom {
+    margin-bottom: 32px;
+}
+
+.margin24bottom {
+    margin-bottom: 24px;
+}
+
+.margin64bottom {
+    margin-bottom: 64px;
+}
+
+
+/* colors / цвета */
+
+.red {
+    color: #DF3231;
+}
+
+.blue {
+    color: #606482;
+}
+
+.green {
+    color: #536720;
+}
+
+.garnet {
+    color: #541607;
+}
+
+.black {
+    color: #3D3D4E;
+}
+
+
+.whiteBG {
+    background-color: white;
+    color: #3D3D4E;
+}

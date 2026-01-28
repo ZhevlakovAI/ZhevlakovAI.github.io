@@ -1,0 +1,17 @@
+
+.blog {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    width: 1136px;
+    height: 596px;
+    margin: 165px auto 0px auto;
+}
+
+.blog__cards {
+    width: 1136px;
+
+    display: flex;
+    justify-content: space-between;
+}

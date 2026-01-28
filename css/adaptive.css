@@ -1,0 +1,373 @@
+
+
+@media (max-width: 391px) {
+    .margin32bottom {
+        margin-bottom: 16px;
+    }
+
+    .margin32top {
+        margin-top: 16px;
+    }
+
+    .marginTo16top {
+        margin-top: 16px;
+    }
+
+    .nonmargin {
+        margin: 0;
+    }
+
+    .font-adp-h3 {
+        font-size: 28px;
+        line-height: 40px;
+        font-family: exB;
+        text-align: center;
+    }
+
+    .font-adp-h4 {
+        font-size: 18px;
+        line-height: 28px;
+        font-family: medium;
+        text-align: center;
+    }
+    
+    header {
+        width: 380px;
+        padding-left: 8px;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .nav-ad {
+        width: 152px;
+        display: flex;
+    }
+
+    .nav-ad ul {
+        width: 0px;
+        padding: 0;
+        margin: 0;
+        margin-left: 76px
+    }
+
+    .nav-ad li {
+        position: relative;
+        list-style-type: none;
+
+        display: flex;
+        justify-content: center;
+    }
+
+    .sub-menu {
+        display: none; 
+        position: absolute;
+        left: -111px;
+        bottom: -100px;
+
+        background-color: rgba(226, 225, 233, 1);
+    }
+
+    .nav-ad li:hover > .sub-menu {
+        display: block;
+        width: max-content;
+        list-style-type: none;
+
+
+    }
+
+    
+    
+    .circle {
+        width: 280px;
+        height: 280px;
+
+        margin-top: -396px;
+        margin-left: 110px;
+        
+        border-radius: 0px 0px 0px 150%;
+    }
+
+    .hero {
+        width: 380px;
+        height: 292px;
+    }
+
+    .hero__main {
+        width: 382px;
+        margin-left: 8px;
+    }
+
+    .hero__main_head {
+        font-size: 40px;
+        line-height: 54px;
+        font-family: exB;
+    }
+
+    .hero__photo {
+        display: none;
+    }
+
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+
+    .cta {
+        width: 380px;
+        height: 3256px;
+
+        margin-top: 175px;
+    }
+
+    .cta__head {
+        font-size: 40px;
+        line-height: 54px;
+        font-family: exB;
+
+        text-align: center;
+    }
+
+    .cards {
+        width: 390px;
+        justify-content: center;
+    }
+
+    .cta__card1 {
+        margin-top: 16px;
+        margin-left: 0px;
+    }
+
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+
+    .features {
+        margin-top: 64px;
+
+        width: 380px;
+        height: 996px;
+    }
+
+    .features__boxes {
+        flex-direction: column;
+        align-items: center;
+
+        margin-top: 0px;
+    }
+
+    .features__card {
+        margin-left: 0px;
+        margin-top: 8px;
+
+        height: 306px;
+    }
+
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+
+    .counters {
+        width: 380px;
+        height: 252px;
+        margin-top: 32px;
+
+        flex-direction: column;
+        align-items: center;
+        justify-content: normal;
+    }
+
+    .counters__text-box {
+        justify-content: flex-end;
+    }
+
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+
+    .cta_photo { 
+        width: 380px;
+        height: 380px;
+
+        margin-top: 64px;
+    }
+    
+    .cta_photo__photo-box {
+        display: none;
+    }
+
+    .cta_photo__form-box {
+        width: 380px;
+        margin-left: 8px;
+    }
+
+    .cta_photo__form-zone {
+        width: 340px;
+    }
+    
+    .cta_photo__form-zone2 {
+        width: 340px;
+    }
+    
+    .cta_photo__form-box {
+        margin-top: -356px;
+    }
+
+    .cta_photo__milk-box {
+        margin-top: 0px;
+
+        height: 380px;
+    }
+
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+
+    .process {
+        width: 380px;
+        height: 1185px;
+
+        margin-top: 64px;
+    }
+
+    .process__cards {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .process__card {
+        margin-top: 8px;
+    }
+
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+
+    .feedback {
+        width: 380px;
+        height: 1572px;
+    }
+
+    .feedback__card {
+        margin-left: 0px;
+        margin-top: 8px;
+    }
+    
+
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+
+    .cta_choose {
+        margin-top: 64px;
+
+        width: 380px;
+        height: 520px;
+    }
+
+    .hero__photo3 {
+        display: none;
+    }
+
+    .cta_choose-text-box {
+        margin-top: 16px;
+        margin-left: 8px;
+        
+        justify-content: center;
+    }
+
+    .cta_choose-form-zone {
+        width: 360px;
+    }
+
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+
+    .blog {
+        width: 380px;
+        height: 1596px;
+
+        margin-top: 64px;
+    }
+
+    .blog__cards {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+
+    .contact {
+        margin-top: 64px;
+
+        width: 380px;
+        height: 870px;
+
+        flex-direction: column;
+    }
+
+    .contact__text-box {
+        margin-left: 2px;
+        width: 380px;
+    }
+
+    .contact__map {
+        width: 380px;
+        height: 380px;
+
+        margin-left: 0;
+        margin-top: 16px;
+    }
+
+    .contact__map-img {
+        width: 380px;
+        height: 380px;
+    }
+
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+    /* ============================= */
+
+    .cta2 {
+        width: 380px;
+        margin-top: 64px;
+    }
+
+
+    .footer {
+        flex-wrap: wrap;
+        height: auto;
+    }
+
+    .footer__text1 {
+        margin-left: 8px;
+        width: 150px;
+        height: 246px;
+
+    }
+
+    .footer__info {
+        margin-left: 8px;
+    }
+
+    .footer__supp {
+        margin-left: 8px;
+    }
+
+    .footer__soc {
+        margin-left: 8px;
+    }
+}
