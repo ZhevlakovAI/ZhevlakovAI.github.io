@@ -284,7 +284,8 @@
     }
 
     .cta_choose-form-zone {
-        width: 360px;
+        width: 358px;
+        margin-left: -11px;
     }
 
     /* ============================= */
@@ -370,4 +371,5 @@
     .footer__soc {
         margin-left: 8px;
     }
+
 }
